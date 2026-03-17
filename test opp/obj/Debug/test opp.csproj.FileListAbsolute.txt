@@ -1,0 +1,7 @@
+D:\nano\test opp\test opp\bin\Debug\test opp.exe.config
+D:\nano\test opp\test opp\bin\Debug\test opp.exe
+D:\nano\test opp\test opp\bin\Debug\test opp.pdb
+D:\nano\test opp\test opp\obj\Debug\test opp.csproj.AssemblyReference.cache
+D:\nano\test opp\test opp\obj\Debug\test opp.csproj.CoreCompileInputs.cache
+D:\nano\test opp\test opp\obj\Debug\test opp.exe
+D:\nano\test opp\test opp\obj\Debug\test opp.pdb
