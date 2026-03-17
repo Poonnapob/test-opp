@@ -1,6 +1,6 @@
 # test-opp
 นายปุณณภพ เเสนโสม 683450057-7
-### 📊 Class Diagram
+###  Class Diagram
 
 ```mermaid
 classDiagram
