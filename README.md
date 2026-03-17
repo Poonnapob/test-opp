@@ -1,13 +1,11 @@
 # test-opp
 นายปุณณภพ เเสนโสม 683450057-7
+### 📊 Class Diagram
+
+```mermaid
 classDiagram
-    %% Inheritance: student inherits from person
     person <|-- student
-    
-    %% Composition: subject contains a list of students
     subject "1" *-- "many" student
-    
-    %% Association: User manages subject
     User --> subject : manages
 
     class person {
@@ -36,3 +34,4 @@ classDiagram
         +ShowAll()
         +ShowAverage()
     }
+      
