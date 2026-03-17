@@ -1,5 +1,5 @@
 # test-opp
-ายปุณณภพ เเสนโสม 683450057-7
+นายปุณณภพ เเสนโสม 683450057-7
 classDiagram
     %% Inheritance: student inherits from person
     person <|-- student
